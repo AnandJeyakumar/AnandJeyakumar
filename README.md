@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e4752olemr8a6klbnfy0038opf0w1npa1wrzocdmqns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-</p>
-
 ## Hi there, I'm Anand! [QA Automation Tester]👋
 Welcome to my GitHub profile! I'm a passionate QA Engineer with interests in Test automation, Performance Testing, App development, and Tech learnings.
+<p align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e4752olemr8a6klbnfy0038opf0w1npa1wrzocdmqns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+</p>
 
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: [janand819@gmail.com](mailto:janand819@gmail.com)
