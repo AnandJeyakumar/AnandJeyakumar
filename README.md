@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack QA Engineer with inter
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anand-jeyakumar)
 [![GitLab](https://img.shields.io/badge/-GitLab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/AnandJeyakumar)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/AnandJeyakumar)
 
 
 ## Most Used Languages
