@@ -1,4 +1,6 @@
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611yqs6rndanrxfcj4gmevknm7t6edcxqqdub26uuap&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611yqs6rndanrxfcj4gmevknm7t6edcxqqdub26uuap&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600">
+</p>
 
 ## Hi there, I'm Anand! [QA Automation Tester]👋
 Welcome to my GitHub profile! I'm a passionate QA Engineer with interests in Test automation, Performance Testing, App development, and Tech learnings.
