@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e4752olemr8a6klbnfy0038opf0w1npa1wrzocdmqns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e4752olemr8a6klbnfy0038opf0w1npa1wrzocdmqns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </p>
 
 ## Hi there, I'm Anand! [QA Automation Tester]👋
